@@ -1,2 +1,2 @@
 # Princesse
-Sauver la princesse - jeux pour P8X Game System (parallax propeller)
+Sauver la princesse - jeux pour P8X Game System (Parallax Propeller)
